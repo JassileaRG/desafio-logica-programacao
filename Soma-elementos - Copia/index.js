@@ -1,7 +1,9 @@
 function solucao(lista) {
-    let valorTotal = 0;
+  let valorTotal = 0
   for (let valor of lista) {
-   valorTotal +=valor;
+      valorTotal+=valor;
   }
-  console.log(valorTotal);
+  let mediaValores = valorTotal / lista.length;
+  console.log(mediaValores);
 }
+solucao([100, 100, 100, 100, 100]);
