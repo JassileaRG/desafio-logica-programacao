@@ -1,7 +1,7 @@
 # desafio-logica-programacao
-# Resolução de exercícios de lógica de programação.
+### Resolução de exercícios de lógica de programação.
 
-## Conteúdos:
+##### Conteúdos:
 * Variáveis;
 * Condicionais;
 * Arrays;
