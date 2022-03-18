@@ -1,4 +1,4 @@
-# desafio-logica-programacao
+# Desafio de Lógica de Programação
 ### Resolução de exercícios de lógica de programação.
 
 ##### Conteúdos:
